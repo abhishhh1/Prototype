@@ -1,1 +1,1 @@
-<h1>Nothing Here...Its Just My blog!!</h1>
+<h1>Its A simple Selling-Buying website for IIIT-A</h1>
